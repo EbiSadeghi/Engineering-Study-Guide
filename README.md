@@ -267,6 +267,7 @@ Tags:
 - [SSL MiM - Chapter 10, part 3, Information Security: Principles and Practice](https://www.youtube.com/watch?v=anCWsaXIkA4)
 - [IPSec - Chapter 10, part 4, Information Security: Principles and Practice](https://www.youtube.com/watch?v=XbELDFLbdpM)
 - [Modes - Chapter 10, part 5, Information Security: Principles and Practice](https://www.youtube.com/watch?v=DuowFgNKAIg)
+- [Cookies - Chapter 10, part 6, Information Security: Principles and Practice](https://www.youtube.com/watch?v=zjpRXHI0Fjo)
 #### Cryptocurrency
 - [Lecture 1 — Intro to Crypto and Cryptocurrencies](https://www.youtube.com/watch?v=fOMVZXLjKYo)
 - [Lecture 2 — How Bitcoin Achieves Decentralization](https://www.youtube.com/watch?v=q5GWwTgRIT4)
