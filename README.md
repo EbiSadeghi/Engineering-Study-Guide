@@ -268,6 +268,7 @@ Tags:
 - [IPSec - Chapter 10, part 4, Information Security: Principles and Practice](https://www.youtube.com/watch?v=XbELDFLbdpM)
 - [Modes - Chapter 10, part 5, Information Security: Principles and Practice](https://www.youtube.com/watch?v=DuowFgNKAIg)
 - [Cookies - Chapter 10, part 6, Information Security: Principles and Practice](https://www.youtube.com/watch?v=zjpRXHI0Fjo)
+- [IPSec Security - Chapter 10, part 7, Information Security: Principles and Practice](https://www.youtube.com/watch?v=tBYCh9f1K48)
 #### Cryptocurrency
 - [Lecture 1 — Intro to Crypto and Cryptocurrencies](https://www.youtube.com/watch?v=fOMVZXLjKYo)
 - [Lecture 2 — How Bitcoin Achieves Decentralization](https://www.youtube.com/watch?v=q5GWwTgRIT4)
