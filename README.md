@@ -484,3 +484,4 @@ Tags:
 - [Is Automation Ethical?](https://www.youtube.com/watch?v=oIilPHgC238)
 - [Legal Implications of Threat Intelligence Sharing - SANS CTI Summit 2018](https://www.youtube.com/watch?v=rhnat6Z1InE)
 - [SLAPP Suits: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=UN8bJb8biZU)
+- [how a simple programming mistake ended 6 lives](https://www.youtube.com/watch?v=41Gv-zzICIQ)
