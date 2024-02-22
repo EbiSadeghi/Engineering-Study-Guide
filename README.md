@@ -336,6 +336,9 @@ Tags:
 - Redundant - [CompTIA Security+ Full Course](https://www.youtube.com/watch?v=O4pJeXgOJDs)
 - [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)	
 - [Ethical Hacking 101: Web App Penetration Testing - a full course for beginners](https://www.youtube.com/watch?v=2_lswM1S264)
+- [How To: Conduct Person of Interest Investigations with Maltego - Official Tutorial (2021)](https://www.youtube.com/watch?v=D2rutsb-ft0)
+- [Introduction to Maltego and Facebook OSINT](https://www.youtube.com/watch?v=hjKH9v3-brA)
+- [23b Maltego How To Create You Own Local Transform in Python (English)](https://www.youtube.com/watch?v=VRN741CgsOk)
 ###### RE+
 - [What is Dependency Injection?](https://www.youtube.com/watch?v=tYZd8hserms)
 ##### Incident Response
