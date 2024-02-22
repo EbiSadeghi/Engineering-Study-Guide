@@ -308,6 +308,8 @@ Tags:
 - [Economics of Cybersecurity: behavioural economics of privacy](https://www.youtube.com/watch?v=PLRPNkNGXDI)
 - [Economics of Cybersecurity: consumer behaviour and deception](https://www.youtube.com/watch?v=ZkEgytKrzvc)
 - [Economics of Cybersecurity: security economics and policy](https://www.youtube.com/watch?v=qMfF71PXfrE)
+##### Security of Economic Automation (Quantitative Trading, retail bots, etc)
+- [What was the most expensive book ever?](https://www.youtube.com/watch?v=sseSi0k3Ecg)
 #### Applied Security
 - Motivation - [How People Get Hacked](https://www.youtube.com/watch?v=YwDJV8O7Bdw)
 - [Cormac Herley: Passwords - A Guide to the Ruins and Lessons for Improvement](https://www.youtube.com/watch?v=vAWyChcB_Vg)
@@ -330,6 +332,7 @@ Tags:
 - [Cross Site Request Forgery - Computerphile](https://www.youtube.com/watch?v=vRBihr41JTo)
 - [Cross Site Scripting Explained](https://www.youtube.com/watch?v=FsIvD6LKaM0)
 ##### Penetration Testing
+###### Searching for vulnerabilities and openings
 - [OpenCSF 3 4: Software Security Lecture 5 Full](https://www.youtube.com/watch?v=t7sag2VLfag)
 - [Principles of Social Engineering - SY0-601 CompTIA Security+ : 1.1](https://www.youtube.com/watch?v=ndwCR1kYz5M)
 - [Phishing - SY0-601 CompTIA Security+ : 1.1](https://www.youtube.com/watch?v=0Tr8avVrzLA)
@@ -338,9 +341,14 @@ Tags:
 - [Ethical Hacking 101: Web App Penetration Testing - a full course for beginners](https://www.youtube.com/watch?v=2_lswM1S264)
 - [How To: Conduct Person of Interest Investigations with Maltego - Official Tutorial (2021)](https://www.youtube.com/watch?v=D2rutsb-ft0)
 - [Introduction to Maltego and Facebook OSINT](https://www.youtube.com/watch?v=hjKH9v3-brA)
+- Meme - [Facebook CIA Project: The Onion News Network ONN](https://www.youtube.com/watch?v=juQcZO_WnsI)
 - [23b Maltego How To Create You Own Local Transform in Python (English)](https://www.youtube.com/watch?v=VRN741CgsOk)
-###### RE+
+###### Exploitation
+- [Dangerous Code Hidden in Plain Sight for 12 years](https://www.youtube.com/watch?v=eTcVLqKpZJc)
+###### SRE+
 - [What is Dependency Injection?](https://www.youtube.com/watch?v=tYZd8hserms)
+- Redundant - [Ghidra — Beyond the Code](https://www.youtube.com/watch?v=08DW8gEMjpQ)
+- Redundant - [Ghidra - Journey from Classified NSA Tool to Open Source](https://www.youtube.com/watch?v=kx2xp7IQNSc)
 ##### Incident Response
 - [DDoS Attack Explained](https://www.youtube.com/watch?v=ilhGh9CEIwM)
 - [I Knew You Were Trouble – Detecting Threat Actors Before They Deploy Ransomware](https://www.youtube.com/watch?v=adwwviNdyBw)
