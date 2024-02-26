@@ -313,6 +313,7 @@ Tags:
 #### Applied Security
 - Motivation - [How People Get Hacked](https://www.youtube.com/watch?v=YwDJV8O7Bdw)
 - [Cormac Herley: Passwords - A Guide to the Ruins and Lessons for Improvement](https://www.youtube.com/watch?v=vAWyChcB_Vg)
+- [Edward Snowden on Passwords: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=yzGzB-yYKcc)
 - [Authentication Management - SY0-601 CompTIA Security+ : 3.8](https://www.youtube.com/watch?v=uNZWgWFKwfA)
 - Motivation - [What Is The Most Complicated Lock Pattern?](https://www.youtube.com/watch?v=PKjbBQ0PBCQ)
 - [OpenCSF 3 3: Usable Security Lecture 1 Full](https://www.youtube.com/watch?v=byGMnzmX9BE)
