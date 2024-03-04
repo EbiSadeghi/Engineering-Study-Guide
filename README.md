@@ -158,7 +158,10 @@ Tags:
 - [1 1 4 Summarizing Performance](https://www.youtube.com/watch?v=Yis4rDhtivo)
 - [2 Practice Quiz Understanding Performance](https://www.youtube.com/watch?v=hifGulVLtNQ)
 - [Operating Systems Overview - CompTIA A+ 220-1002 - 1.1](https://www.youtube.com/watch?v=ChQ18B1hofI)
-
+- [1 1 5 CPU Performance Equation](https://www.youtube.com/watch?v=jafpmMOw194)
+- [1 1 6 Amdahl's Law](https://www.youtube.com/watch?v=Axx2xuB-Xuo)
+- [1 1 7 Amdahl's Law Example](https://www.youtube.com/watch?v=QutASUpGzbc)
+- [1 Review Quiz](https://www.youtube.com/watch?v=ozdP_TwqNfk)
 #### Operating System Design
 - [How do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc)
 - [1 3 1 Pipelining Principles](https://www.youtube.com/watch?v=zPmfprtdzCE)
