@@ -294,6 +294,7 @@ Tags:
 - [Kerberos - Chapter 10, part 8, Information Security: Principles and Practice](https://www.youtube.com/watch?v=Ikqydq0LIbM)
 - [Kerberos - Chapter 10, part 9, Information Security: Principles and Practice](https://www.youtube.com/watch?v=XnWfLwjao2E)
 - [Wired Equivalent Privacy (WEP) - Chapter 10, part 10, Information Security: Principles and Practice](https://www.youtube.com/watch?v=f5WNbsy9R_M)
+- [WEP Keys - Chapter 10, part 11, Information Security: Principles and Practice](https://www.youtube.com/watch?v=moFMbqiEM8k)
 #### Cryptocurrency
 - [Lecture 1 — Intro to Crypto and Cryptocurrencies](https://www.youtube.com/watch?v=fOMVZXLjKYo)
 - [Lecture 2 — How Bitcoin Achieves Decentralization](https://www.youtube.com/watch?v=q5GWwTgRIT4)
