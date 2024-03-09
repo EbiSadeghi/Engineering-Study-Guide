@@ -352,7 +352,7 @@ Tags:
 - [OpenCSF 3 4: Software Security Lecture 4 Full](https://www.youtube.com/watch?v=4hzAmGXE1n8)
 - Redundant - [Cyber Security Full Course for Beginners](https://www.youtube.com/watch?v=U_P23SqJaDc) 
 - [Why Windows Gets Viruses So Often](https://www.youtube.com/watch?v=jBIcu3jgpMo)
-- Meme - [How to Protect Your Computer from Getting Shot by an MBT](https://www.youtube.com/watch?v=l-3kOuF0dts)
+- Meme - [How to Protect Your Computer from Getting Shot by an MBT](https://www.youtube.com/watch?v=rSvBFm_MuXw)
 - Meme - [ring doorbell](https://www.youtube.com/watch?v=SMRJptsxJXM&t=11s)
 - [Physical Security Controls - SY0-601 CompTIA Security+ : 2.7](https://www.youtube.com/watch?v=sacbNzDaYCY)
 - [Secure Areas - SY0-601 CompTIA Security+ : 2.7](https://www.youtube.com/watch?v=7nX3vI5I-Qc)
