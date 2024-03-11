@@ -188,6 +188,7 @@ Tags:
 - [1 5 8 Give Priority to Read Misses](https://www.youtube.com/watch?v=efJ24T8yUiE)
 - [5 Review Quiz](https://www.youtube.com/watch?v=oQQ5lbYYgnU)
 - [2 1 1 ILP Concepts and Challenges](https://www.youtube.com/watch?v=ZoDUI3gTkDI)
+- [2 1 2 Dependences and Hazards](https://www.youtube.com/watch?v=vEW70ruIbZ8)
 ### Compilers & Programming Languages
 - [LLVM in 100 Seconds](https://www.youtube.com/watch?v=BT2Cv-Tjq7Q)
 - [Programming Basics: Statements & Functions: Crash Course Computer Science #12](https://www.youtube.com/watch?v=l26oaHV7D40)
