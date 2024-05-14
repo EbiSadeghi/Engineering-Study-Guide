@@ -195,6 +195,12 @@ Tags:
 - [2 1 4 Dynamic Scheduling Using Tomasulo's Algorithm Example](https://www.youtube.com/watch?v=YH2fFu-35L8)
 - [2 1 5 Extending Tomasulo with Memory Accesses](https://www.youtube.com/watch?v=Zwh3VKU1d_o)
 - [2 1 6 Loop Based Dynamic Scheduling Example](https://www.youtube.com/watch?v=eI-xrVbUIdY)
+- [2 1 7 Introduction to Dynamic Branch Prediction](https://www.youtube.com/watch?v=PFmx2p6NA0A)
+- [2 1 8 Advanced Branch Prediction](https://www.youtube.com/watch?v=avp3bDqCXYM)
+- [2 1 9 Tournament Predictors and Branch Prediction Accuracy](https://www.youtube.com/watch?v=-T8yDJ8vTuI)
+- [2 1 10 Hardware Based Speculation](https://www.youtube.com/watch?v=mFtX28lH4O8)
+- [2 1 11 Multiple Issue](https://www.youtube.com/watch?v=wGpkiNb_V9c)
+- [2 1 12 Increasing Instruction Fetch Bandwidth](https://www.youtube.com/watch?v=_qnVcV2WKEQ)
 ### Compilers & Programming Languages
 - [LLVM in 100 Seconds](https://www.youtube.com/watch?v=BT2Cv-Tjq7Q)
 - [Programming Basics: Statements & Functions: Crash Course Computer Science #12](https://www.youtube.com/watch?v=l26oaHV7D40)
