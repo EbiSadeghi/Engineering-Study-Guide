@@ -189,6 +189,12 @@ Tags:
 - [5 Review Quiz](https://www.youtube.com/watch?v=oQQ5lbYYgnU)
 - [2 1 1 ILP Concepts and Challenges](https://www.youtube.com/watch?v=ZoDUI3gTkDI)
 - [2 1 2 Dependences and Hazards](https://www.youtube.com/watch?v=vEW70ruIbZ8)
+- [Scoreboard Example](https://www.youtube.com/watch?v=TXdQWwIMUdk)
+- [High Performance Computer Architecture - Scoreboarding Example](https://www.youtube.com/watch?v=TJcNJh8tS6w)
+- [2 1 3 Dynamic Scheduling Using Tomasulo's Algorithm](https://www.youtube.com/watch?v=y-N0Dsc9LmU)
+- [2 1 4 Dynamic Scheduling Using Tomasulo's Algorithm Example](https://www.youtube.com/watch?v=YH2fFu-35L8)
+- [2 1 5 Extending Tomasulo with Memory Accesses](https://www.youtube.com/watch?v=Zwh3VKU1d_o)
+- [2 1 6 Loop Based Dynamic Scheduling Example](https://www.youtube.com/watch?v=eI-xrVbUIdY)
 ### Compilers & Programming Languages
 - [LLVM in 100 Seconds](https://www.youtube.com/watch?v=BT2Cv-Tjq7Q)
 - [Programming Basics: Statements & Functions: Crash Course Computer Science #12](https://www.youtube.com/watch?v=l26oaHV7D40)
