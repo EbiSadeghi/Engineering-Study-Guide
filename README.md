@@ -357,6 +357,15 @@ Tags:
 ##### Security of Economic Automation (Quantitative Trading, retail bots, etc)
 - [What was the most expensive book ever?](https://www.youtube.com/watch?v=sseSi0k3Ecg)
 #### Applied Security
+- [Authentication - Chapter 7, part 1, Information Security: Principles and Practice](https://www.youtube.com/watch?v=CRtbkQ73Eyk)
+- [Good & Bad passwords - Chapter 7, part 2, Information Security: Principles and Practice](https://www.youtube.com/watch?v=UvoIJ72BIzU)
+- [Salting & Cracking passwords - Chapter 7, part 3, Information Security: Principles and Practice](https://www.youtube.com/watch?v=MuDe2mWja7k)
+- [User issues with passwords - Chapter 7, part 4, Information Security: Principles and Practice](https://www.youtube.com/watch?v=IVeE6EurdXY)
+- [Biometrics overview - Chapter 7, part 5, Information Security: Principles and Practice](https://www.youtube.com/watch?v=WPjisRfzfoE)
+- [Biometrics errors - Chapter 7, part 6, Information Security: Principles and Practice](https://www.youtube.com/watch?v=tJY8n2IMT6M)
+- [Iris Scan biometrics - Chapter 7, part 7, Information Security: Principles and Practice](https://www.youtube.com/watch?v=7oxJGqXFv84)
+- [Equal Error Rate Comparison - Chapter 7, part 8, Information Security: Principles and Practice](https://www.youtube.com/watch?v=vv3RoZuESTI)
+- [2FA, SSO, web cookies - Chapter 7, part 9, Information Security: Principles and Practice](https://www.youtube.com/watch?v=txzfLYg5FYg)
 - Motivation - [How People Get Hacked](https://www.youtube.com/watch?v=YwDJV8O7Bdw)
 - [Cormac Herley: Passwords - A Guide to the Ruins and Lessons for Improvement](https://www.youtube.com/watch?v=vAWyChcB_Vg)
 - [Edward Snowden on Passwords: Last Week Tonight with John Oliver (HBO)](https://www.youtube.com/watch?v=yzGzB-yYKcc)
@@ -439,7 +448,6 @@ Tags:
 - [UML Diagrams Full Course (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
 #### Design Patterns
 - Playlist - [Design Patterns Video Tutorial](https://www.youtube.com/watch?v=vNHpsC5ng_E&list=PLE7E8B7F4856C9B19&index=64)
-
 ### Multithreading
 - [why can’t computers have thousands of cores?](https://www.youtube.com/watch?v=dMejriBC_Kc)
 - [CPU Cores VS Threads Explained](https://www.youtube.com/watch?v=hwTYDQ0zZOw)
@@ -522,6 +530,7 @@ Tags:
 - [An Introduction to Dataview - Part 2](https://www.youtube.com/watch?v=jW5pD4SioFM)
 
 ### Ethics
+- [Tricking Ethical Hackers Into Doing Evil](https://www.youtube.com/watch?v=Xp_MkBtEi8U)
 - [Jaron Lanier - The Surveillance Economy and Extreme Income Inequality: You Can't Have One Without the Other](https://www.youtube.com/watch?v=VSH9gOqevRc)
 - Meme - [New Facebook Feature Scans Profile To Pinpoint Exactly When Things Went Wrong](https://www.youtube.com/watch?v=fHefhIId4qY)
 - [Jaron Lanier - 10 Reasons to Get Off Social Media](https://www.youtube.com/watch?v=BCTlcj5vImk)
