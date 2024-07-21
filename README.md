@@ -201,6 +201,10 @@ Tags:
 - [2 1 10 Hardware Based Speculation](https://www.youtube.com/watch?v=mFtX28lH4O8)
 - [2 1 11 Multiple Issue](https://www.youtube.com/watch?v=wGpkiNb_V9c)
 - [2 1 12 Increasing Instruction Fetch Bandwidth](https://www.youtube.com/watch?v=_qnVcV2WKEQ)
+- [2 1 13 Limitations of ILP](https://www.youtube.com/watch?v=ExzaJxOzHf)
+- [2 2 1 Basic VLIW Approach](https://www.youtube.com/watch?v=3re04MxFtnU)
+- [2 2 2 VLIW Challenges Instruction Scheduling & Code Size](https://www.youtube.com/watch?v=fNsrCAWHIvs)
+- [2 2 3 VLIW Challenges Register File Complexity & Control Hazards](https://www.youtube.com/watch?v=MrArmOxyPwY)
 ### Compilers & Programming Languages
 - [LLVM in 100 Seconds](https://www.youtube.com/watch?v=BT2Cv-Tjq7Q)
 - [Programming Basics: Statements & Functions: Crash Course Computer Science #12](https://www.youtube.com/watch?v=l26oaHV7D40)
@@ -315,6 +319,9 @@ Tags:
 - [WEP vs. WPA - CompTIA Security+ SY0-401: 6.2](https://www.youtube.com/watch?v=_n21tRQVIvw)
 - [The web - OpenCSF 3 4: Software Security Lecture 3 Full](https://www.youtube.com/watch?v=7W5au-IJUEc)
 - [Designing and building secure software - OpenCSF 3 4: Software Security Lecture 4 Full](https://www.youtube.com/watch?v=4hzAmGXE1n8)
+- Redundant - [Hashing and Digital Signatures - SY0-601 CompTIA Security+ : 2.8](https://www.youtube.com/watch?v=VUI89yBDcdk)
+- [Secure Protocols - SY0-601 CompTIA Security+ : 3.1](https://www.youtube.com/watch?v=yuXK_Jyosus)
+- [How Secure Shell Works (SSH) - Computerphile](https://www.youtube.com/watch?v=ORcvSkgdA58)
 #### Cryptocurrency
 - [Lecture 1 — Intro to Crypto and Cryptocurrencies](https://www.youtube.com/watch?v=fOMVZXLjKYo)
 - [Lecture 2 — How Bitcoin Achieves Decentralization](https://www.youtube.com/watch?v=q5GWwTgRIT4)
@@ -360,6 +367,7 @@ Tags:
 - [Authentication - Chapter 7, part 1, Information Security: Principles and Practice](https://www.youtube.com/watch?v=CRtbkQ73Eyk)
 - [Good & Bad passwords - Chapter 7, part 2, Information Security: Principles and Practice](https://www.youtube.com/watch?v=UvoIJ72BIzU)
 - [Salting & Cracking passwords - Chapter 7, part 3, Information Security: Principles and Practice](https://www.youtube.com/watch?v=MuDe2mWja7k)
+- [Password Cracking - Computerphile](https://www.youtube.com/watch?v=7U-RbOKanYs)
 - [User issues with passwords - Chapter 7, part 4, Information Security: Principles and Practice](https://www.youtube.com/watch?v=IVeE6EurdXY)
 - [Biometrics overview - Chapter 7, part 5, Information Security: Principles and Practice](https://www.youtube.com/watch?v=WPjisRfzfoE)
 - [Biometrics errors - Chapter 7, part 6, Information Security: Principles and Practice](https://www.youtube.com/watch?v=tJY8n2IMT6M)
@@ -398,13 +406,15 @@ Tags:
 - [How To: Conduct Person of Interest Investigations with Maltego - Official Tutorial (2021)](https://www.youtube.com/watch?v=D2rutsb-ft0)
 - [Introduction to Maltego and Facebook OSINT](https://www.youtube.com/watch?v=hjKH9v3-brA)
 - Meme - [Facebook CIA Project: The Onion News Network ONN](https://www.youtube.com/watch?v=juQcZO_WnsI)
-- [23b Maltego How To Create You Own Local Transform in Python (English)](https://www.youtube.com/watch?v=VRN741CgsOk)
+- [23b Maltego How To Create You Own Local Transform in Python (English)](https://www.youtube.com/watch?v=VRN741CgsOk)'
+- [Network - Reconnaissance Tools - Part 1 - SY0-601 CompTIA Security+ : 4.1](https://www.youtube.com/watch?v=bszbj18pDHs)
 ###### Exploitation
 - [Dangerous Code Hidden in Plain Sight for 12 years](https://www.youtube.com/watch?v=eTcVLqKpZJc)
 ###### SRE+
 - [What is Dependency Injection?](https://www.youtube.com/watch?v=tYZd8hserms)
 - Redundant - [Ghidra — Beyond the Code](https://www.youtube.com/watch?v=08DW8gEMjpQ)
 - Redundant - [Ghidra - Journey from Classified NSA Tool to Open Source](https://www.youtube.com/watch?v=kx2xp7IQNSc)
+- [KOVTER Malware Analysis - Fileless Persistence in Registry](https://www.youtube.com/watch?v=DXlqAH1IV6A)
 ##### Incident Response
 - [DDoS Attack Explained](https://www.youtube.com/watch?v=ilhGh9CEIwM)
 - [I Knew You Were Trouble – Detecting Threat Actors Before They Deploy Ransomware](https://www.youtube.com/watch?v=adwwviNdyBw)
@@ -413,6 +423,10 @@ Tags:
 - [Solving Quantum Cryptography](https://www.youtube.com/watch?v=4KCDGa98Ckc)
 - Motivation - [Why Quantum Computing Requires Quantum Cryptography](https://www.youtube.com/watch?v=pi7YwxxZQ5A)
 - Motivation - [Don't fall for quantum hype](https://www.youtube.com/watch?v=b-aGIvUomTA)
+###### Physical
+- [I Broke Into The International Security Convention](https://www.youtube.com/watch?v=qM3imMiERdU)
+- [I Broke Into The U.S. Security Convention](https://www.youtube.com/watch?v=NmgLwxK8TvA)
+- []()
 
 ### Networking
 - Motivation - [NYC’s nonprofit DIY internet is taking on Verizon & more | Just Might Work by Freethink](https://www.youtube.com/watch?v=Dpl-faX6vlg)
@@ -424,6 +438,8 @@ Tags:
 - [TCP vs UDP Comparison](https://www.youtube.com/watch?v=uwoD5YsGACg)
 - [PING Command - Troubleshooting Networks](https://www.youtube.com/watch?v=IIicPE38O-s)
 - [CompTIA Network+ Certification Video Course](https://www.youtube.com/watch?v=vrh0epPAC5w)
+- [Secure Networking - SY0-601 CompTIA Security+ : 3.3](https://www.youtube.com/watch?v=Nj_VF6tuBpw)
+
   
 ### Computer Science
 - [100+ Computer Science Concepts Explained](https://www.youtube.com/watch?v=-uleG_Vecis)
@@ -453,7 +469,13 @@ Tags:
 - [CPU Cores VS Threads Explained](https://www.youtube.com/watch?v=hwTYDQ0zZOw)
 - [Threading Tutorial #1 - Concurrency, Threading and Parallelism Explained](https://www.youtube.com/watch?v=olYdb0DdGtM)
 - [Threading Tutorial #2 - Implementing Threading in Python 3 (Examples)](https://www.youtube.com/watch?v=cdPZ1pJACMI)
-
+### Applied Knowledge
+- [APIs for Beginners - How to use an API (Full Course / Tutorial)](https://www.youtube.com/watch?v=GZvSYJDk-us)
+#### Web App Development
+- [Node.js Ultimate Beginner’s Guide in 7 Easy Steps](https://www.youtube.com/watch?v=ENrzD9HAZK4)
+- [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+#### Systems Software Engineering
+- [C++ Tutorial From Basic to Advanced](https://www.youtube.com/watch?v=mUQZ1qmKlLY)
 
 ### Tools for Coding
 - [~/.dotfiles in 100 Seconds](https://www.youtube.com/watch?v=r_MpUP6aKiQ)
@@ -472,6 +494,7 @@ Tags:
 - [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 - [13 Advanced (but useful) Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o)
 - Certification - [Linux Cert - LFD109x](https://training.linuxfoundation.org/training/git-for-distributed-software-development-lfd109x/)
+- [Git Tutorial - 2 - Config Our Username and Email](https://www.youtube.com/watch?v=yDntCIs-IJM)
   
 #### Linux
 - [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)
@@ -516,6 +539,7 @@ Tags:
 - [NVChad - Turn Neovim Into An Awesome IDE](https://odysee.com/@AlphaNerd:8/nvchad-turn-neovim-into-an-awesome-ide:7)
 
 #### Communication
+-[MIT Lecture - How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
 - Meme - [Technical Jargon Overload](https://www.youtube.com/watch?v=aW2LvQUcwqc)
 - Meme - [Droop Snoot](https://www.youtube.com/watch?v=YuedQFH8wZI)
 #### Studying & Organization
