@@ -311,6 +311,10 @@ Tags:
 - [WEP Keys - Chapter 10, part 11, Information Security: Principles and Practice](https://www.youtube.com/watch?v=moFMbqiEM8k)
 - [GSM and cellphone insecurity - Chapter 10, part 12, Information Security: Principles and Practice](https://www.youtube.com/watch?v=NanCoeOMGwY)
 - [GSM Security Features - Chapter 10, part 13, Information Security: Principles and Practice](https://www.youtube.com/watch?v=H7DflPl6-qg)
+- [Chapter 10, part 14, Information Security: Principles and Practice](https://www.youtube.com/watch?v=Hya_XH3q24E)
+- [WEP vs. WPA - CompTIA Security+ SY0-401: 6.2](https://www.youtube.com/watch?v=_n21tRQVIvw)
+- [The web - OpenCSF 3 4: Software Security Lecture 3 Full](https://www.youtube.com/watch?v=7W5au-IJUEc)
+- [Designing and building secure software - OpenCSF 3 4: Software Security Lecture 4 Full](https://www.youtube.com/watch?v=4hzAmGXE1n8)
 #### Cryptocurrency
 - [Lecture 1 — Intro to Crypto and Cryptocurrencies](https://www.youtube.com/watch?v=fOMVZXLjKYo)
 - [Lecture 2 — How Bitcoin Achieves Decentralization](https://www.youtube.com/watch?v=q5GWwTgRIT4)
