@@ -481,7 +481,19 @@ Tags:
 - [Node.js Ultimate Beginner’s Guide in 7 Easy Steps](https://www.youtube.com/watch?v=ENrzD9HAZK4)
 - [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 #### Systems Software Engineering
+##### C/C++
+- [C in 100 Seconds](https://www.youtube.com/watch?v=U3aXWizDbQ4)
+- [C++ in 100 Seconds](https://www.youtube.com/watch?v=MNeX4EGtR5Y)
+- Meme - [Program in C](https://www.youtube.com/watch?v=tas0O586t80)
 - [C++ Tutorial From Basic to Advanced](https://www.youtube.com/watch?v=mUQZ1qmKlLY)
+- [what even is a "reference"?](https://www.youtube.com/watch?v=wro8Bb6JnwU)
+- [E01: Stupid C++ Tricks with Dave](https://www.youtube.com/watch?v=p-sprvJX07E)
+- [Reduce Boilerplate Code With The C++ Spaceship Operator (＜=＞)](https://www.youtube.com/watch?v=dUOLH_SjlHA)
+- [C++ Accumulate: More Powerful Than You Think](https://www.youtube.com/watch?v=mvC81eguSn8)
+##### Rust
+- [Rust in 100 Seconds](https://www.youtube.com/watch?v=5C_HPTJg5ek)
+- [Rust makes you feel like a GENIUS](https://www.youtube.com/watch?v=0rJ94rbdteE)
+- Meme - [What your favourite programming language says about you!](https://www.youtube.com/watch?v=zJ-8DZhzBEE)
 
 ### Tools for Coding
 - [~/.dotfiles in 100 Seconds](https://www.youtube.com/watch?v=r_MpUP6aKiQ)
@@ -511,6 +523,7 @@ Tags:
 - Redundant - [Linux for Ethical Hackers (Kali Linux Tutorial)](https://www.youtube.com/watch?v=lZAoFs75_cs)
 - Redundant - [Linux Essentials for Ethical Hackers - Full InfoSec Course](https://www.youtube.com/watch?v=1hvVcEhcbLM)
 - Certification - [Linux Cert - LFS101x](https://training.linuxfoundation.org/training/introduction-to-linux/)
+- [Why so many distros? The Weird History of Linux](https://www.youtube.com/watch?v=ShcR4Zfc6Dw)
 
 #### Regex and String Searching
 - [Regular Expressions (RegEx) in 100 Seconds](https://www.youtube.com/watch?v=sXQxhojSdZM)
