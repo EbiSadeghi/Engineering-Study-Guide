@@ -99,7 +99,9 @@ Tags:
 - [ELEC 202 - Two Port Networks SILENT](https://www.youtube.com/watch?v=LJfGnBpbiK0)
 - [How Alternators Work - Automotive Electricity Generator](https://www.youtube.com/watch?v=jdSKlg80DjU)
 - Meme - [Scientists Continue Developing Alternative Energy Sources For Americans To Waste](https://www.youtube.com/watch?v=TMG5g6MWmvA)
+- [INDUC 03 - The Induction Motor, Rotating Magnetic Field](https://www.youtube.com/watch?v=5IdezpclHQo)
 #### Applied
+- [Worst Electrical Mistake You Can Make - Backfeeding Generators](https://www.youtube.com/watch?v=9kjpS1vfGio)
 - [The Breadboard, schematics, cables and wiring.](https://www.youtube.com/watch?v=0XYv5x70Ofc)
 - [Design your own Circuit Boards using Kicad Part 1 (using only FREE software)](https://www.youtube.com/watch?v=sEGyNfBuPig)
 - [Design your own Circuit Boards using Kicad Part 2](https://www.youtube.com/watch?v=qw9WIm5M5R4)
@@ -439,6 +441,9 @@ Tags:
 - [PING Command - Troubleshooting Networks](https://www.youtube.com/watch?v=IIicPE38O-s)
 - [CompTIA Network+ Certification Video Course](https://www.youtube.com/watch?v=vrh0epPAC5w)
 - [Secure Networking - SY0-601 CompTIA Security+ : 3.3](https://www.youtube.com/watch?v=Nj_VF6tuBpw)
+- [Firewalls - SY0-601 CompTIA Security+ : 3.3](https://www.youtube.com/watch?v=qLb2ioDBofg)
+- Motivation - [Cat 6 amazing dressing and termination](https://www.youtube.com/watch?v=FY1XB0rrYes)
+- [How to Terminate on a Patch Panel](https://www.youtube.com/watch?v=i5NKTI2OssQ)
 
   
 ### Computer Science
@@ -457,6 +462,7 @@ Tags:
 - Visualization - epilepsy warning [16 Sorts - Color Circle](https://www.youtube.com/watch?v=y9Ecb43qw98)
 - Visualization [when sorting algorithms sound like a sick beat](https://www.youtube.com/watch?v=j3j9d9BDLa0)
 - [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0)
+- Redundant - [Java - Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo)
 #### Benchmarking
 - [Big O Notation - Full Course](https://www.youtube.com/watch?v=Mo4vesaut8g)
 #### Documentation
@@ -503,6 +509,7 @@ Tags:
 - [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0)
 - Meme - [When Linux users met Windows 10](https://www.youtube.com/watch?v=WRGROMvU7nc)
 - Redundant - [Linux for Ethical Hackers (Kali Linux Tutorial)](https://www.youtube.com/watch?v=lZAoFs75_cs)
+- Redundant - [Linux Essentials for Ethical Hackers - Full InfoSec Course](https://www.youtube.com/watch?v=1hvVcEhcbLM)
 - Certification - [Linux Cert - LFS101x](https://training.linuxfoundation.org/training/introduction-to-linux/)
 
 #### Regex and String Searching
