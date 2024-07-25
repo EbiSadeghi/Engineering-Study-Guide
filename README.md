@@ -392,11 +392,10 @@ Tags:
 - [Why Windows Gets Viruses So Often](https://www.youtube.com/watch?v=jBIcu3jgpMo)
 - Meme - [How to Protect Your Computer from Getting Shot by an MBT](https://www.youtube.com/watch?v=rSvBFm_MuXw)
 - Meme - [ring doorbell](https://www.youtube.com/watch?v=SMRJptsxJXM&t=11s)
-- [Physical Security Controls - SY0-601 CompTIA Security+ : 2.7](https://www.youtube.com/watch?v=sacbNzDaYCY)
-- [Secure Areas - SY0-601 CompTIA Security+ : 2.7](https://www.youtube.com/watch?v=7nX3vI5I-Qc)
 - [Cross Site Request Forgery Explained](https://www.youtube.com/watch?v=GG9hFMAcNh0)
 - [Cross Site Request Forgery - Computerphile](https://www.youtube.com/watch?v=vRBihr41JTo)
 - [Cross Site Scripting Explained](https://www.youtube.com/watch?v=FsIvD6LKaM0)
+- Meme - [Google Shuts Down Gmail For Two Hours To Show Its Immense Power](https://www.youtube.com/watch?v=ntICHMV-WMA)
 ##### Penetration Testing
 ###### Searching for vulnerabilities and openings
 - [OpenCSF 3 4: Software Security Lecture 5 Full](https://www.youtube.com/watch?v=t7sag2VLfag)
@@ -426,6 +425,8 @@ Tags:
 - Motivation - [Why Quantum Computing Requires Quantum Cryptography](https://www.youtube.com/watch?v=pi7YwxxZQ5A)
 - Motivation - [Don't fall for quantum hype](https://www.youtube.com/watch?v=b-aGIvUomTA)
 ###### Physical
+- [Physical Security Controls - SY0-601 CompTIA Security+ : 2.7](https://www.youtube.com/watch?v=sacbNzDaYCY)
+- [Secure Areas - SY0-601 CompTIA Security+ : 2.7](https://www.youtube.com/watch?v=7nX3vI5I-Qc)
 - [I Broke Into The International Security Convention](https://www.youtube.com/watch?v=qM3imMiERdU)
 - [I Broke Into The U.S. Security Convention](https://www.youtube.com/watch?v=NmgLwxK8TvA)
 - []()
@@ -482,9 +483,20 @@ Tags:
 - [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 #### Systems Software Engineering
 ##### C/C++
+- [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
+###### C
 - [C in 100 Seconds](https://www.youtube.com/watch?v=U3aXWizDbQ4)
-- [C++ in 100 Seconds](https://www.youtube.com/watch?v=MNeX4EGtR5Y)
+- [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 - Meme - [Program in C](https://www.youtube.com/watch?v=tas0O586t80)
+- [How to return and pass a struct to a function](https://www.youtube.com/watch?v=XreVazVRQEI)
+- [The address of an array in C (short)](https://www.youtube.com/watch?v=ToPkRyNOBZ8)
+- [The address of an array in C (in-depth)](https://www.youtube.com/watch?v=pBPrWFhVNL4)
+- [Difference between arrays and pointers in C](https://www.youtube.com/watch?v=iSZLE9qPN14)
+- [How to pass arrays to functions in C](https://www.youtube.com/watch?v=yULO8fpvPEM)
+- [What is a mutex in C? (pthread_mutex)](https://www.youtube.com/watch?v=oq29KUy29iQ)
+- [Break macro in multiple lines using continuation operator (\) in c programming | by Sanjay Gupta](https://www.youtube.com/watch?v=KnCljABPHz8)
+###### C++
+- [C++ in 100 Seconds](https://www.youtube.com/watch?v=MNeX4EGtR5Y)
 - [C++ Tutorial From Basic to Advanced](https://www.youtube.com/watch?v=mUQZ1qmKlLY)
 - [what even is a "reference"?](https://www.youtube.com/watch?v=wro8Bb6JnwU)
 - [E01: Stupid C++ Tricks with Dave](https://www.youtube.com/watch?v=p-sprvJX07E)
