@@ -288,6 +288,7 @@ Tags:
 - [Chapter 4, part 10, Information Security: Principles and Practice](https://www.youtube.com/watch?v=HbYviiDv-vc)
 - [Chapter 4, part 11, Information Security: Principles and Practice](https://www.youtube.com/watch?v=NWGDFWagpIE)
 - [NCM: Introduction to Steganography](https://www.youtube.com/watch?v=GPdIY6ObKJU)
+- Motivation - [Cracking Enigma in 2021 - Computerphile](https://www.youtube.com/watch?v=RzWB5jL5RX0)
 #### Elliptic-Curve Cryptography
 - [NSA - Embracing a Zero Trust Mindset](https://www.youtube.com/watch?v=4wmwhoJBvQE)
 - [Elliptic Curves - Computerphile](https://www.youtube.com/watch?v=NF1pwjL9-DE)
