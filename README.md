@@ -467,6 +467,8 @@ Tags:
 - Redundant - [Java - Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo)
 #### Benchmarking
 - [Big O Notation - Full Course](https://www.youtube.com/watch?v=Mo4vesaut8g)
+#### Dynamic Programming
+- [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 #### Documentation
 - [UML Use Case Diagram Tutorial](https://www.youtube.com/watch?v=zid-MVo7M-E)
 - [UML Diagrams Full Course (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
