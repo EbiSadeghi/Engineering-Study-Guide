@@ -28,6 +28,8 @@ Tags:
 - [Calculus 1 - full course for beginners](https://www.youtube.com/watch?v=JizOEcL4ft8)
 - Calculus 2 - [Calculus Series and Sequences](https://www.youtube.com/watch?v=_IR2WVV8zZs)
 - [Calculus 3 Full Course](https://www.youtube.com/watch?v=0yebWTXixnE)
+- [Multivariable functions | Multivariable calculus | Khan Academy](https://www.youtube.com/watch?v=TrcCbdWwCBc)
+- [Representing points in 3d | Multivariable calculus | Khan Academy](https://www.youtube.com/watch?v=iBgOoaeLUcM)
 #### Linear Algebra
 - [Linear Algebra for Beginners](https://www.youtube.com/watch?v=R3VlD0ohKwc)
 - [Linear Algebra - Matrix Transformations](https://www.youtube.com/watch?v=IrggOvOSZr4)
