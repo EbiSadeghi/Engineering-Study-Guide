@@ -1,5 +1,6 @@
 # Engineering-Study-Guide
 An online guide to studying engineering
+![WIP](https://img.shields.io/badge/status-WIP-yellow)
 
 ## Fundamentals of Electronics & Computer Science
 If you feel you do not have the background to learn computer science, just know that there are plenty of great free resources online.
